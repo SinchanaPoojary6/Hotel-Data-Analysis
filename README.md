@@ -1,4 +1,5 @@
 # Hotel-Data-Analysis
+
 I.Exploratory Data Analysis (EDA)
 Applying EDA to the data to answer the following question:
 1.Is the hotel's revenue increasing yearly?
